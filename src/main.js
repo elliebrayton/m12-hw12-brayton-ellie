@@ -3,7 +3,7 @@ const myButton = document.getElementById('randomizer');
 myButton.addEventListener('click', () => {
     
 
-const doggos = ['Bread Boi', 'Cloud Boi', 'Smol Bean'];
+const doggos = ['Bread Boi!', 'Cloud Boi!', 'Smol Bean!'];
 
 let shuffle = (i, j, k) => {
     for (i = doggos.length - 1; i > 0; i--) {
@@ -15,14 +15,14 @@ let shuffle = (i, j, k) => {
 
 
 
-if (doggos[0] == 'Bread Boi') {
+if (doggos[0] == 'Bread Boi!') {
     document.getElementById('image').src = 'img/bread-boi.jpg';
 }   
 
-else if (doggos[0] == 'Cloud Boi') {
+else if (doggos[0] == 'Cloud Boi!') {
     document.getElementById('image').src = 'img/cloud-boi.jpg';
 }   
-else if (doggos[0] == 'Smol Bean') {
+else if (doggos[0] == 'Smol Bean!') {
     document.getElementById('image').src = 'img/smol-bean.jpg';
 }                                            
 };
