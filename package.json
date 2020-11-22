@@ -1,0 +1,19 @@
+{
+  "name": "m12-hw12-brayton-ellie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliebrayton/m12-hw12-brayton-ellie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliebrayton/m12-hw12-brayton-ellie/issues"
+  },
+  "homepage": "https://github.com/elliebrayton/m12-hw12-brayton-ellie#readme"
+}
